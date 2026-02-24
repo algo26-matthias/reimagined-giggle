@@ -1,0 +1,6 @@
+/vendor/
+/compose.yml
+/Dockerfile
+/docker/
+.idea
+.DS_Store
