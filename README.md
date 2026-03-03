@@ -1,5 +1,5 @@
-# Yoummday Refactoring Task
-## Bewerber: Matthias Sommerfeld
+# Quick Refactoring Task
+## Autor: Matthias Sommerfeld
 
 **Anmerkung:** 
 
